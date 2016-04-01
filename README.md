@@ -1,0 +1,1 @@
+Created a photo gallery page with a sticky search that filters images as user types. When user selects photo an image lightbox appears, user can navigate through images using either the left and right arrows on screen or on the keyboard, also includes an overlay for embedded youtube video.
